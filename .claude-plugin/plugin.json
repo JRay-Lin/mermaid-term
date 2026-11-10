@@ -1,0 +1,19 @@
+{
+  "name": "mermaid-term",
+  "version": "0.3.0",
+  "description": "Draws mermaid flowcharts (with subgraphs), sequence diagrams and ER diagrams in Claude's replies as box drawings in the terminal",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "JRay-Lin"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/JRay-Lin/mermaid-term",
+  "keywords": [
+    "mermaid",
+    "diagram",
+    "terminal",
+    "flowchart",
+    "sequence-diagram",
+    "er-diagram"
+  ]
+}

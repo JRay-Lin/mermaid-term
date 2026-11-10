@@ -1,0 +1,14 @@
+{
+  "name": "mermaid-term",
+  "owner": {
+    "name": "JRay-Lin"
+  },
+  "description": "Draws mermaid diagrams in Claude Code replies as box drawings in the terminal",
+  "plugins": [
+    {
+      "name": "mermaid-term",
+      "source": "./",
+      "description": "Draws mermaid flowcharts, sequence diagrams and ER diagrams in Claude's replies as box drawings in the terminal"
+    }
+  ]
+}
